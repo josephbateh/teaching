@@ -34,3 +34,11 @@ https://repl.it/@josephbateh/Primitive-Data-Types
 - Discuss a double.
 - Discuss a character.
 - Mention that primitive types can be printed as well.
+
+## Expressions And Assignments
+
+## Compound Assignment Operators
+
+## User Input
+
+## Casting And Ranges Of Variables

@@ -32,7 +32,7 @@ https://repl.it/@josephbateh/Primitive-Data-Types
 - Discuss types beyond strings.
 - Discuss an integer.
 - Discuss a double.
-- Discuss a character.
+- Discuss a boolean.
 - Mention that primitive types can be printed as well.
 
 ## Expressions And Assignments

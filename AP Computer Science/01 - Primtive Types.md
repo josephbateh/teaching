@@ -84,6 +84,57 @@ Temperature: 293 K
 
 ## Compound Assignment Operators
 
+https://repl.it/@josephbateh/Compound-Operators
+
+### Lesson Notes
+
+- Discuss compound operators.
+
+### Task
+
+Use variables to convert a temperature from Celsius to Kelvin. This time using a compound assignment operator. Print it out in the following format:
+
+```
+Temperature: 20 C
+Temperature: 293 K
+```
+
 ## User Input
 
+https://repl.it/@josephbateh/User-Input
+
+### Lesson Notes
+
+- Discuss the scanner class.
+- Discuss imports.
+
+### Task
+
+Use the scanner class to get a temperature from the user in Kelvin. Convert that temperature to Celsius.
+
+```
+Enter Temperature in Kelvin:
+456
+Temperature: 182.85 C
+```
+
 ## Casting And Ranges Of Variables
+
+https://repl.it/@josephbateh/Casting#Main.java
+
+### Lesson Notes
+
+- Discuss floor rounding.
+- Discuss types that cannot be cast.
+
+### Task
+
+Ask the user for the number of people that need to fit into cars that fit five people. Return the number of people that should be in each car (if divided evenly). Assume there will never be too many people.
+
+```
+How many people?
+10
+How many cars?
+5
+People per car: 2
+```

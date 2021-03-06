@@ -19,7 +19,7 @@ class Main {
 
     // Check if person is not born yet
     boolean born = age >= 0;
-    if (!born) {
+    if (born == false) {
       System.out.println("You are not born yet!");
     }
   }

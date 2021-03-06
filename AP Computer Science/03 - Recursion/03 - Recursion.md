@@ -8,6 +8,7 @@ https://repl.it/@josephbateh/If-Statements
 
 - Discuss fibonacci sequence.
 - Briefly mention how a method works.
+- Discuss factorials.
 
 ### Task
 

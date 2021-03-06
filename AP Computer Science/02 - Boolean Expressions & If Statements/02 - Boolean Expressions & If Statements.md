@@ -10,6 +10,7 @@ https://repl.it/@josephbateh/If-Statements
 - Mention that the expression inside the parenthesis needs to result in either true or false.
 - Discuss else statements.
 - Discuss else if statements.
+- Note that if statements don't require an else or else if.
 
 ### Task
 
@@ -34,6 +35,8 @@ https://repl.it/@josephbateh/Compound-Boolean-Expressions
 
 - Discuss AND and OR operators.
 - Discuss the NOT operator.
+- Discuss the order of operations.
+- Discuss short circuiting.
 
 ### Task
 

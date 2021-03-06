@@ -51,6 +51,7 @@ https://repl.it/@josephbateh/Primitive-Data-Types
 - Discuss a double.
 - Discuss a boolean.
 - Mention that primitive types can be printed as well.
+- Show how `System.out.println(3 + 4 + " is 7 so is " + 4 + 3)` behaves.
 
 ### Task
 
@@ -82,23 +83,6 @@ Temperature: 20 C
 Temperature: 293 K
 ```
 
-## Compound Assignment Operators
-
-https://repl.it/@josephbateh/Compound-Operators
-
-### Lesson Notes
-
-- Discuss compound operators.
-
-### Task
-
-Use variables to convert a temperature from Celsius to Kelvin. This time using a compound assignment operator. Print it out in the following format:
-
-```
-Temperature: 20 C
-Temperature: 293 K
-```
-
 ## User Input
 
 https://repl.it/@josephbateh/User-Input
@@ -107,6 +91,7 @@ https://repl.it/@josephbateh/User-Input
 
 - Discuss the scanner class.
 - Discuss imports.
+- Discuss `nextLine` vs `nextInt`.
 
 ### Task
 
@@ -126,6 +111,7 @@ https://repl.it/@josephbateh/Casting#Main.java
 
 - Discuss floor rounding.
 - Discuss types that cannot be cast.
+- Discuss `double avg = (3+4)/2`
 
 ### Task
 

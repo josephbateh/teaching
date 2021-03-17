@@ -8,8 +8,21 @@ https://replit.com/@josephbateh/While-Loops
 
 - Discuss syntax of while loops.
 - Discuss boolean expression in while loops.
+- Discuss ++/-- operator
+- Discuss scope in while loops.
 
 ### Task
+
+Count down from 1000 to 0. Print out each number while counting down.
+
+```
+1000
+999
+998
+997
+...
+0
+```
 
 ## For Loops
 
@@ -17,7 +30,29 @@ https://replit.com/@josephbateh/For-Loops
 
 ### Lesson Notes
 
-- Discuss fibonacci sequence.
+- Discuss syntax of for loops.
+- Discuss boolean expression in for loops.
+- Discuss variable declaration in for loops.
+- Discuss scope in for loops.
 
 ### Task
 
+Write a program that prints the numbers from 1 to 100 and for multiples of ‘3’ print “Fizz” instead of the number and for the multiples of ‘5’ print “Buzz”.
+
+```
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+...
+14
+FizzBuzz
+16
+...
+98
+Fizz
+Buzz
+```

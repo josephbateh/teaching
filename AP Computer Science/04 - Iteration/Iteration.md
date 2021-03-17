@@ -6,7 +6,8 @@ https://replit.com/@josephbateh/While-Loops
 
 ### Lesson Notes
 
-- Discuss fibonacci sequence.
+- Discuss syntax of while loops.
+- Discuss boolean expression in while loops.
 
 ### Task
 

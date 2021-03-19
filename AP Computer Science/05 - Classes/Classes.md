@@ -70,4 +70,19 @@ Second number: 3.5
 
 ## Primitive Wrappers
 
-## Strings
+### Lesson Notes
+
+- Discuss syntax of `Integer`.
+- Show how to use it.
+- Show that you can add `Integer`s and `int`s.
+
+### Task
+
+Add and overloaded method to your Calculator class that takes two `Integer`s for calculation.
+
+```
+First number: 2
+Second number: 3
+
+2 + 3 = 5
+```

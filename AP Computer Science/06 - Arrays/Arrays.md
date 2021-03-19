@@ -2,6 +2,8 @@
 
 ## Usage
 
+## Iteration With For Loops
+
 ## Strings
 
 ### Lesson Notes

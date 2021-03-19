@@ -9,7 +9,7 @@ No link provided. Class will be created live.
 - Discuss syntax of classes.
 - Mention that we've been making a class to run all our programs.
 - Discuss public vs private.
-- Discuss member variables.
+- Discuss member variables, fields, instance variables, attributes, properties, etc
 
 ### Task
 

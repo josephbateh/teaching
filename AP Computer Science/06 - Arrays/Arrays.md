@@ -7,6 +7,7 @@ https://replit.com/@josephbateh/Arrays
 ### Lesson Notes
 
 - Mention that the element in the loop cannot be changed.
+- Show how printing an array itself will show the memory address rather than the values.
 
 ## Strings
 

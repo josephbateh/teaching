@@ -4,6 +4,10 @@
 
 ## Iteration With For Loops
 
+### Lesson Notes
+
+- Mention that the element in the loop cannot be changed
+
 ## Strings
 
 ### Lesson Notes

@@ -24,6 +24,10 @@ Count down from 1000 to 0. Print out each number while counting down.
 0
 ```
 
+### Task
+
+Ask the user to input a positive integer. If they don't ask them to put in a positive integer until they do.
+
 ## For Loops
 
 https://replit.com/@josephbateh/For-Loops

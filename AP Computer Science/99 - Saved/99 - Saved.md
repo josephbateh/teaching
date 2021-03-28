@@ -16,3 +16,5 @@ Use variables to convert a temperature from Celsius to Kelvin. This time using a
 Temperature: 20 C
 Temperature: 293 K
 ```
+
+## Fraction Class

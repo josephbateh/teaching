@@ -4,8 +4,4 @@
 
 ## For Each Loops
 
-## Sorting
-
-### Insertion Sort
-
-### Selection Sort
+https://replit.com/@josephbateh/ForEachLoop

@@ -7,6 +7,7 @@ https://repl.it/@josephbateh/Compound-Operators
 ### Lesson Notes
 
 - Discuss compound operators.
+- Discuss automatic casting.
 
 ### Task
 
